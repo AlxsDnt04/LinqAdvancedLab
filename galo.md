@@ -1,5 +1,5 @@
 # Diario de Aprendizaje 
-
+- aprender
 ## 1. Objetivos del día
 -
 
