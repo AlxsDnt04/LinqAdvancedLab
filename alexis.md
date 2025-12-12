@@ -16,3 +16,19 @@ Hacer la primera consulta LINQ.
 ### 5. Tiempo invertido
 2 horas.
 
+## Sesión 2: Consultas Basicas
+### 1. Objetivos del día
+- [x] Uso básico de LINQ.
+
+### 2. Lo que logré
+Cree consultas básicas con LINQ para obtener datos de la base de datos.
+
+### 3. Dificultades
+Tuve el error NotSupportedException al intentar usar un método no compatible con LINQ to Entities.
+
+### 4. Próximo paso
+Consultas Avanzadas con LINQ.
+
+### 5. Tiempo invertido
+2 horas.
+
