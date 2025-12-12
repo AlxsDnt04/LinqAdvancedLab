@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="alexis.md" />
+    <File Path="galo.md" />
+    <File Path="jorge.md" />
+    <File Path="naty.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="LinqAdvancedLab.Console/LinqAdvancedLab.Console.csproj" />
+    <Project Path="LinqAdvancedLab.Data/LinqAdvancedLab.Data.csproj" />
+    <Project Path="LinqAdvancedLab.Domain/LinqAdvancedLab.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="LinqAdvancedLab.Tests/LinqAdvancedLab.Tests.csproj" />
+  </Folder>
+</Solution>
