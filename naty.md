@@ -13,6 +13,6 @@ Realizar la clonacion
 -hacer la base y conexiones
 
 ## 5. Tiempo invertido
-- 1 hora
+- 2 hora
 
 
