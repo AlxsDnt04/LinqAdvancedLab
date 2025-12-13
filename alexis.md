@@ -32,3 +32,19 @@ Consultas Avanzadas con LINQ.
 ### 5. Tiempo invertido
 2 horas.
 
+## Sesión 3: Consultas Avanzadas
+### 1. Objetivos del día
+- Mediante LINQ, realizar consultas avanzadas como joins, group by y subconsultas.
+
+### 2. Lo que logré
+- Realicé consultas avanzadas utilizando joins y group by para obtener datos complejos de la base de datos.
+
+### 3. Dificultades
+- Las dependencias de los proyectos no estaban bien configuradas
+
+### 4. Próximo paso
+- Realizar pull request al repositorio principal.
+
+### 5. Tiempo invertido
+1.5 horas.
+
